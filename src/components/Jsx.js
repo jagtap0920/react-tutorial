@@ -1,3 +1,9 @@
+/** 
+JavaScript XML (JSX) is an extension to the JavaScript language syntax. 
+With React, it's an extension to write XML-like code for elements and components. 
+And just like XML, JSX tags have a tag name, attributes, and children.
+*/
+
 import React from 'react';
 
 const Jsx = () => {
