@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Greet from './components/Greet';
 import Welcmone from './components/Welcome';
+import Jsx from './components/Jsx';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <header className="App-header">
         <Greet />
         <Welcmone />
+        <Jsx />
       </header>
     </div>
   );
