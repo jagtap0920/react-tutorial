@@ -6,6 +6,7 @@ import Welcmone from './components/Welcome';
 import Jsx from './components/Jsx';
 import LearnPropsFunctionalComponents from './components/04-LearnPropsFunctionalComponents';
 import LearnPropsClassComponents from './components/04-LearnPropsClassComponents';
+import LearnStateManagementComponent from './components/05-LearnStateManagementComponent';
 
 function App() {
   return (
@@ -37,6 +38,9 @@ function App() {
         </LearnPropsClassComponents>
         <hr />
 
+        <LearnStateManagementComponent />
+        <hr />
+        
       </div>
     </div>
   );
